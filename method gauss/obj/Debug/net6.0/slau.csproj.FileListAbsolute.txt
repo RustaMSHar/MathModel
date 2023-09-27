@@ -1,0 +1,14 @@
+D:\Study\Математическое моделирование\1 лаба\slau\obj\Debug\net6.0\slau.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Математическое моделирование\1 лаба\slau\obj\Debug\net6.0\slau.AssemblyInfoInputs.cache
+D:\Study\Математическое моделирование\1 лаба\slau\obj\Debug\net6.0\slau.AssemblyInfo.cs
+D:\Study\Математическое моделирование\1 лаба\slau\obj\Debug\net6.0\slau.csproj.CoreCompileInputs.cache
+D:\Study\Математическое моделирование\1 лаба\slau\bin\Debug\net6.0\slau.exe
+D:\Study\Математическое моделирование\1 лаба\slau\bin\Debug\net6.0\slau.deps.json
+D:\Study\Математическое моделирование\1 лаба\slau\bin\Debug\net6.0\slau.runtimeconfig.json
+D:\Study\Математическое моделирование\1 лаба\slau\bin\Debug\net6.0\slau.dll
+D:\Study\Математическое моделирование\1 лаба\slau\bin\Debug\net6.0\slau.pdb
+D:\Study\Математическое моделирование\1 лаба\slau\obj\Debug\net6.0\slau.dll
+D:\Study\Математическое моделирование\1 лаба\slau\obj\Debug\net6.0\refint\slau.dll
+D:\Study\Математическое моделирование\1 лаба\slau\obj\Debug\net6.0\slau.pdb
+D:\Study\Математическое моделирование\1 лаба\slau\obj\Debug\net6.0\slau.genruntimeconfig.cache
+D:\Study\Математическое моделирование\1 лаба\slau\obj\Debug\net6.0\ref\slau.dll
