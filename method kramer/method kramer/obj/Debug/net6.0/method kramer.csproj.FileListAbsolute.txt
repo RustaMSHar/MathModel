@@ -1,0 +1,14 @@
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\bin\Debug\net6.0\method kramer.exe
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\bin\Debug\net6.0\method kramer.deps.json
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\bin\Debug\net6.0\method kramer.runtimeconfig.json
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\bin\Debug\net6.0\method kramer.dll
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\bin\Debug\net6.0\method kramer.pdb
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\obj\Debug\net6.0\method kramer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\obj\Debug\net6.0\method kramer.AssemblyInfoInputs.cache
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\obj\Debug\net6.0\method kramer.AssemblyInfo.cs
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\obj\Debug\net6.0\method kramer.csproj.CoreCompileInputs.cache
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\obj\Debug\net6.0\method kramer.dll
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\obj\Debug\net6.0\refint\method kramer.dll
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\obj\Debug\net6.0\method kramer.pdb
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\obj\Debug\net6.0\method kramer.genruntimeconfig.cache
+D:\Study\Математическое моделирование\2 лаба\labs\method kramer\obj\Debug\net6.0\ref\method kramer.dll
